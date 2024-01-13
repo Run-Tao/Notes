@@ -102,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Daily/2024-01-13.md"
-              }
+              "state": {}
             }
           },
           {
@@ -140,7 +138,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-01-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +154,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-01-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,14 +181,14 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "5fc1fcd54521f834",
+  "active": "b7a399762e654c6a",
   "lastOpenFiles": [
+    "Daily/2024-01-13.md",
     "Daily/2024-01-12.md",
     "Daily/2024-01-11.md",
     "Daily/2024-01-08.md",
     "Daily/2024-01-09.md",
     "Daily/2024-01-10.md",
-    "Daily/2024-01-13.md",
     "README.md",
     "Projects/DialectTranslation/普通话语音指令数据集.md",
     "语文/《登泰山记》注释.md",
