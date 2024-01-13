@@ -1,0 +1,18 @@
+{
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 95
+  },
+  "defaultViewMode": "source",
+  "showFrontmatter": false,
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": null,
+  "attachmentFolderPath": "附件",
+  "showLineNumber": true,
+  "rightToLeft": false,
+  "showIndentGuide": false,
+  "propertiesInDocument": "visible"
+}
