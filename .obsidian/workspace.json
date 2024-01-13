@@ -11,8 +11,13 @@
             "id": "fd430c0dd08e99a3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "生物/细胞各部分结构既分工又合作.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -97,7 +102,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "生物/细胞各部分结构既分工又合作.md"
+              }
             }
           },
           {
@@ -133,6 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "生物/细胞各部分结构既分工又合作.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,6 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "生物/细胞各部分结构既分工又合作.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
