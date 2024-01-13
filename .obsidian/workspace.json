@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7d1e81af7f63778d",
+        "id": "46859cd1716e597f",
         "type": "tabs",
         "children": [
           {
-            "id": "5fc1fcd54521f834",
+            "id": "fd430c0dd08e99a3",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Projects/DialectTranslation/方言语音指令转换器.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -99,9 +97,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Projects/DialectTranslation/方言语音指令转换器.md"
-              }
+              "state": {}
             }
           },
           {
@@ -137,7 +133,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/DialectTranslation/方言语音指令转换器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +149,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/DialectTranslation/方言语音指令转换器.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,11 +176,12 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "5fc1fcd54521f834",
+  "active": "fd430c0dd08e99a3",
   "lastOpenFiles": [
     "Daily/2024-01-13.md",
     "Daily/2024-01-12.md",
     "Daily/2024-01-11.md",
+    "Projects/DialectTranslation/方言语音指令转换器.md",
     "Daily/2024-01-08.md",
     "Daily/2024-01-09.md",
     "Daily/2024-01-10.md",
@@ -194,7 +189,6 @@
     "Projects/DialectTranslation/普通话语音指令数据集.md",
     "语文/《登泰山记》注释.md",
     "Projects/DialectTranslation/DialectTranslation.md",
-    "Projects/DialectTranslation/方言语音指令转换器.md",
     "英语/WWII Love Letters Telling of Romance and Tragedy.md",
     "英语/The 1940s House.md",
     "附件/The 1940s House.pdf",
