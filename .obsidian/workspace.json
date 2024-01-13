@@ -83,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 364.5,
-    "collapsed": true
+    "width": 364.5
   },
   "right": {
     "id": "c560c0d18f2d9ffc",
@@ -166,8 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 331.5,
-    "collapsed": true
+    "width": 331.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,7 +182,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "18835fdeb84ef3fd",
+  "active": "5fc1fcd54521f834",
   "lastOpenFiles": [
     "Daily/2024-01-13.md",
     "Daily/2024-01-12.md",
