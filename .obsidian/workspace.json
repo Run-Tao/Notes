@@ -102,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Daily/2024-01-13.md"
-              }
+              "state": {}
             }
           },
           {
@@ -140,7 +138,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-01-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +154,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-01-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +181,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "f0133d344b8c5586",
+  "active": "b7a399762e654c6a",
   "lastOpenFiles": [
     "Daily/2024-01-13.md",
     "Daily/2024-01-12.md",
