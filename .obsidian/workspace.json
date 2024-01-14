@@ -102,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Daily/2024-01-14.md"
-              }
+              "state": {}
             }
           },
           {
@@ -140,7 +138,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-01-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +154,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-01-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +181,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "fd430c0dd08e99a3",
+  "active": "b7a399762e654c6a",
   "lastOpenFiles": [
     "Daily/2024-01-14.md",
     "Excalidraw/Drawing 2024-01-14 14.26.45.excalidraw.md",
