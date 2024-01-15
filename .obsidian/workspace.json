@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-01-14.md",
+                "file": "Daily/2024-01-15.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -102,7 +102,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Daily/2024-01-15.md"
+              }
             }
           },
           {
@@ -138,6 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily/2024-01-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,6 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daily/2024-01-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,8 +185,9 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "b7a399762e654c6a",
+  "active": "fd430c0dd08e99a3",
   "lastOpenFiles": [
+    "Daily/2024-01-15.md",
     "Daily/2024-01-14.md",
     "Excalidraw/Drawing 2024-01-14 14.26.45.excalidraw.md",
     "生物/细胞各部分结构既分工又合作.md",
@@ -209,7 +214,6 @@
     "语文/《荷塘月色》笔记整理.md",
     "语文/《乡土中国》笔记整理.md",
     "Daily/2024-01-07.md",
-    "语文/作文素材.md",
     "模板",
     "附件/《登泰山记》注释.pdf",
     "附件/《赤壁赋》注释.pdf",
