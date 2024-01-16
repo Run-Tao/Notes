@@ -5,7 +5,7 @@
   "translucency": true,
   "nativeMenus": false,
   "cssTheme": "Minimal",
-  "textFontFamily": "Times New Roman,Georgia,宋体,华文仿宋,楷体",
+  "textFontFamily": "Times New Roman,Georgia,华文仿宋,宋体,楷体",
   "baseFontSize": 16,
   "monospaceFontFamily": "Fira Code"
 }
