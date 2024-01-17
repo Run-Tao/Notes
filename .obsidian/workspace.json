@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "语文/国学的天空/立志于学.md",
+                "file": "Daily/2024-01-17.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -128,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Daily/2024-01-17.md"
+              }
             }
           },
           {
@@ -164,6 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily/2024-01-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,6 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daily/2024-01-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +211,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "b7a399762e654c6a",
+  "active": "0cde0e7c462f3d95",
   "lastOpenFiles": [
     "语文/国学的天空/立志于学.md",
     "语文/国学的天空/老子的道.md",
