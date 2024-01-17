@@ -13,6 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "语文/国学的天空/《国学的天空》笔记大纲.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "be4e7a2bce9677f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "语文/国学的天空/立志于学.md",
                 "mode": "source",
                 "backlinks": false,
@@ -20,7 +33,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,19 +199,20 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "0cde0e7c462f3d95",
+  "active": "be4e7a2bce9677f7",
   "lastOpenFiles": [
+    "语文/国学的天空/老子的道.md",
+    "语文/国学的天空/《国学的天空》笔记大纲.md",
+    "语文/国学的天空/立志于学.md",
     "Daily/2024-01-17.md",
     "Daily/2024-01-01.md",
     "Daily/2024-01-16.md",
     "语文/桨声灯影里的秦淮河.md",
-    "语文/国学的天空/立志于学.md",
     "Excalidraw/Drawing 2024-01-01 15.46.24.excalidraw.md",
     "Drawing 2024-01-01 15.46.24.excalidraw.png.md",
     "地理/主要地貌类型.md",
     "Daily/2024-01-15.md",
     "Daily/2024-01-14.md",
-    "语文/国学的天空/《国学的天空》笔记大纲.md",
     "生物/生物整合笔记.md",
     "生物/生物笔记大纲.md",
     "语文/国学的天空/《国学的天空》整合笔记.md",
@@ -217,7 +232,6 @@
     "Daily/2024-01-10.md",
     "README.md",
     "Projects/DialectTranslation/普通话语音指令数据集.md",
-    "语文/《登泰山记》注释.md",
     "附件/The 1940s House.pdf",
     "模板",
     "附件/《登泰山记》注释.pdf",
