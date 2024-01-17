@@ -128,9 +128,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "语文/国学的天空/立志于学.md"
-              }
+              "state": {}
             }
           },
           {
@@ -166,7 +164,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "语文/国学的天空/立志于学.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +180,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "语文/国学的天空/立志于学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,16 +201,16 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "random-note:开始漫游笔记": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "workspaces:管理工作区布局": true,
-      "obsidian-memos:Memos": false
+      "obsidian-memos:Memos": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "0cde0e7c462f3d95",
+  "active": "b7a399762e654c6a",
   "lastOpenFiles": [
-    "Daily/2024-01-17.md",
     "语文/国学的天空/立志于学.md",
+    "Daily/2024-01-17.md",
     "语文/国学的天空/老子的道.md",
     "语文/国学的天空/《国学的天空》笔记大纲.md",
     "Daily/2024-01-16.md",
