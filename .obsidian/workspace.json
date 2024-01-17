@@ -128,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "语文/国学的天空/立志于学.md"
+              }
             }
           },
           {
@@ -164,6 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "语文/国学的天空/立志于学.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +183,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "linksCollapsed": false,
+                "file": "语文/国学的天空/立志于学.md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -207,7 +211,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "b7a399762e654c6a",
+  "active": "f0133d344b8c5586",
   "lastOpenFiles": [
     "语文/国学的天空/立志于学.md",
     "Daily/2024-01-17.md",
