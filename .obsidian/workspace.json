@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-01-18.md",
+                "file": "语文/国学的天空/老子的道.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-01-18.md"
+                "file": "语文/国学的天空/老子的道.md"
               }
             }
           },
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-01-18.md",
+                "file": "语文/国学的天空/老子的道.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-01-18.md",
+                "file": "语文/国学的天空/老子的道.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -213,8 +213,9 @@
   },
   "active": "0cde0e7c462f3d95",
   "lastOpenFiles": [
-    "语文/国学的天空/立志于学.md",
+    "Daily/2024-01-19.md",
     "Daily/2024-01-18.md",
+    "语文/国学的天空/立志于学.md",
     "Daily/2024-01-17.md",
     "语文/国学的天空/老子的道.md",
     "语文/国学的天空/《国学的天空》笔记大纲.md",
@@ -243,7 +244,6 @@
     "Daily/2024-01-08.md",
     "Daily/2024-01-09.md",
     "Daily/2024-01-10.md",
-    "README.md",
     "附件/The 1940s House.pdf",
     "模板",
     "附件/《登泰山记》注释.pdf",
