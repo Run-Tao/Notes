@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学建模/IMMC24233671.md",
+                "file": "Daily/2024-01-27.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数学建模/IMMC24233671.md"
+                "file": "Daily/2024-01-27.md"
               }
             }
           },
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数学建模/IMMC24233671.md",
+                "file": "Daily/2024-01-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数学建模/IMMC24233671.md",
+                "file": "Daily/2024-01-27.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -213,8 +213,9 @@
   },
   "active": "0cde0e7c462f3d95",
   "lastOpenFiles": [
-    "Daily/2024-01-26.md",
     "数学建模/IMMC24233671.md",
+    "Daily/2024-01-27.md",
+    "Daily/2024-01-26.md",
     "语文/国学的天空/老子的道.md",
     "Daily/2024-01-17.md",
     "Daily/2024-01-22.md",
@@ -243,7 +244,6 @@
     "Daily/2024-01-13.md",
     "Daily/2024-01-12.md",
     "Daily/2024-01-11.md",
-    "Projects/DialectTranslation/方言语音指令转换器.md",
     "附件/The 1940s House.pdf",
     "模板",
     "附件/《登泰山记》注释.pdf",
