@@ -24,9 +24,12 @@
             "id": "742a0de8bf960c76",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-29 15.31.28.excalidraw.md"
+                "file": "数学建模/MCM.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -123,8 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 364.5,
-    "collapsed": true
+    "width": 364.5
   },
   "right": {
     "id": "c560c0d18f2d9ffc",
@@ -141,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-29 15.31.28.excalidraw.md"
+                "file": "数学建模/MCM.md"
               }
             }
           },
@@ -178,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-29 15.31.28.excalidraw.md",
+                "file": "数学建模/MCM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-29 15.31.28.excalidraw.md",
+                "file": "数学建模/MCM.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -226,8 +228,10 @@
   },
   "active": "742a0de8bf960c76",
   "lastOpenFiles": [
-    "Daily/2024-02-02.md",
+    "Daily/2024-02-03.md",
+    "数学建模/MCM.md",
     "Excalidraw/Drawing 2024-01-29 15.31.28.excalidraw.md",
+    "Daily/2024-02-02.md",
     "Daily/2024-01-29.md",
     "Daily/2024-01-28.md",
     "Daily/2024-01-27.md",
@@ -250,13 +254,11 @@
     "Daily/2024-01-14.md",
     "生物/生物整合笔记.md",
     "生物/生物笔记大纲.md",
-    "语文/国学的天空/《国学的天空》整合笔记.md",
     "语文/国学的天空/庄子",
     "语文/国学的天空/老子",
     "语文/国学的天空/孟子",
     "语文/国学的天空/孔子",
     "语文/国学的天空",
-    "Excalidraw/Drawing 2024-01-14 14.26.45.excalidraw.md",
     "附件/The 1940s House.pdf",
     "模板",
     "附件/《登泰山记》注释.pdf",
