@@ -24,12 +24,9 @@
             "id": "742a0de8bf960c76",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Daily/2024-02-02.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Excalidraw/Drawing 2024-01-29 15.31.28.excalidraw.md"
               }
             }
           },
@@ -126,8 +123,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 364.5,
-    "collapsed": true
+    "width": 364.5
   },
   "right": {
     "id": "c560c0d18f2d9ffc",
@@ -144,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-02-02.md"
+                "file": "Excalidraw/Drawing 2024-01-29 15.31.28.excalidraw.md"
               }
             }
           },
@@ -181,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-02-02.md",
+                "file": "Excalidraw/Drawing 2024-01-29 15.31.28.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-02-02.md",
+                "file": "Excalidraw/Drawing 2024-01-29 15.31.28.excalidraw.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -229,8 +225,8 @@
   },
   "active": "742a0de8bf960c76",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-01-29 15.31.28.excalidraw.md",
     "Daily/2024-02-02.md",
+    "Excalidraw/Drawing 2024-01-29 15.31.28.excalidraw.md",
     "Daily/2024-01-29.md",
     "Daily/2024-01-28.md",
     "Daily/2024-01-27.md",
