@@ -142,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "数学建模/MCM.md"
-              }
+              "state": {}
             }
           },
           {
@@ -180,7 +178,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数学建模/MCM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +194,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数学建模/MCM.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -226,10 +222,10 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "742a0de8bf960c76",
+  "active": "b7a399762e654c6a",
   "lastOpenFiles": [
-    "Daily/2024-02-03.md",
     "数学建模/MCM.md",
+    "Daily/2024-02-03.md",
     "Excalidraw/Drawing 2024-01-29 15.31.28.excalidraw.md",
     "Daily/2024-02-02.md",
     "Daily/2024-01-29.md",
