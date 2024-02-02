@@ -24,9 +24,12 @@
             "id": "742a0de8bf960c76",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-29 15.31.28.excalidraw.md"
+                "file": "Daily/2024-02-02.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -141,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-29 15.31.28.excalidraw.md"
+                "file": "Daily/2024-02-02.md"
               }
             }
           },
@@ -178,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-29 15.31.28.excalidraw.md",
+                "file": "Daily/2024-02-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-29 15.31.28.excalidraw.md",
+                "file": "Daily/2024-02-02.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -226,8 +229,9 @@
   },
   "active": "742a0de8bf960c76",
   "lastOpenFiles": [
-    "Daily/2024-01-29.md",
     "Excalidraw/Drawing 2024-01-29 15.31.28.excalidraw.md",
+    "Daily/2024-02-02.md",
+    "Daily/2024-01-29.md",
     "Daily/2024-01-28.md",
     "Daily/2024-01-27.md",
     "数学建模/IMMC24233671.md",
@@ -256,7 +260,6 @@
     "语文/国学的天空/孔子",
     "语文/国学的天空",
     "Excalidraw/Drawing 2024-01-14 14.26.45.excalidraw.md",
-    "生物/细胞各部分结构既分工又合作.md",
     "附件/The 1940s House.pdf",
     "模板",
     "附件/《登泰山记》注释.pdf",
