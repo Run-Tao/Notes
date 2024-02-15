@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "语文/国学的天空/老子的道.md",
+                "file": "语文/国学的天空/处世态度.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "语文/国学的天空/老子的道.md"
+                "file": "语文/国学的天空/处世态度.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "语文/国学的天空/老子的道.md",
+                "file": "语文/国学的天空/处世态度.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "语文/国学的天空/老子的道.md",
+                "file": "语文/国学的天空/处世态度.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -227,6 +227,9 @@
   },
   "active": "742a0de8bf960c76",
   "lastOpenFiles": [
+    "语文/《赤壁赋》笔记整理.md",
+    "语文/国学的天空/处世态度.md",
+    "语文/国学的天空/老子的道.md",
     "Daily/2024-02-15.md",
     "数学建模/MCM.md",
     "Daily/2024-02-03.md",
@@ -237,7 +240,6 @@
     "Daily/2024-01-27.md",
     "数学建模/IMMC24233671.md",
     "Daily/2024-01-26.md",
-    "语文/国学的天空/老子的道.md",
     "Daily/2024-01-17.md",
     "Daily/2024-01-22.md",
     "Daily/2024-01-19.md",
@@ -251,8 +253,6 @@
     "Drawing 2024-01-01 15.46.24.excalidraw.png.md",
     "地理/主要地貌类型.md",
     "Daily/2024-01-15.md",
-    "Daily/2024-01-14.md",
-    "生物/生物整合笔记.md",
     "语文/国学的天空/庄子",
     "语文/国学的天空/老子",
     "语文/国学的天空/孟子",
