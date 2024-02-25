@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "《记得绿罗裙，处处怜芳草》.md",
+                "file": "语文/记得绿罗裙，处处怜芳草.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -139,8 +139,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 364.5,
-    "collapsed": true
+    "width": 364.5
   },
   "right": {
     "id": "c560c0d18f2d9ffc",
@@ -157,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "《记得绿罗裙，处处怜芳草》.md"
+                "file": "语文/记得绿罗裙，处处怜芳草.md"
               }
             }
           },
@@ -194,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "《记得绿罗裙，处处怜芳草》.md",
+                "file": "语文/记得绿罗裙，处处怜芳草.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "《记得绿罗裙，处处怜芳草》.md",
+                "file": "语文/记得绿罗裙，处处怜芳草.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +242,7 @@
   "lastOpenFiles": [
     "Daily/2024-02-25.md",
     "语文/国学的天空/老子的道.md",
-    "《记得绿罗裙，处处怜芳草》.md",
+    "语文/记得绿罗裙，处处怜芳草.md",
     "语文/国学的天空/立志于学.md",
     "语文/国学的天空/处世态度.md",
     "Daily/2024-01-17.md",
