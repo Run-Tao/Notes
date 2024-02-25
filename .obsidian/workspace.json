@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "语文/国学的天空/立志于学.md",
+                "file": "Daily/2024-02-25.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -126,7 +126,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 364.5
+    "width": 364.5,
+    "collapsed": true
   },
   "right": {
     "id": "c560c0d18f2d9ffc",
@@ -143,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "语文/国学的天空/立志于学.md"
+                "file": "Daily/2024-02-25.md"
               }
             }
           },
@@ -180,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "语文/国学的天空/立志于学.md",
+                "file": "Daily/2024-02-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "语文/国学的天空/立志于学.md",
+                "file": "Daily/2024-02-25.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -227,6 +228,8 @@
   },
   "active": "367e6f8330762bd9",
   "lastOpenFiles": [
+    "语文/国学的天空/立志于学.md",
+    "Daily/2024-02-25.md",
     "语文/国学的天空/处世态度.md",
     "语文/国学的天空/老子的道.md",
     "Daily/2024-01-17.md",
@@ -245,14 +248,12 @@
     "Daily/2024-01-22.md",
     "Daily/2024-01-19.md",
     "Daily/2024-01-18.md",
-    "语文/国学的天空/立志于学.md",
     "语文/国学的天空/《国学的天空》笔记大纲.md",
     "Daily/2024-01-16.md",
     "Daily/2024-01-01.md",
     "语文/桨声灯影里的秦淮河.md",
     "Excalidraw/Drawing 2024-01-01 15.46.24.excalidraw.md",
     "Drawing 2024-01-01 15.46.24.excalidraw.png.md",
-    "地理/主要地貌类型.md",
     "语文/国学的天空/庄子",
     "语文/国学的天空/老子",
     "语文/国学的天空/孟子",

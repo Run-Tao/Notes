@@ -1,10 +1,10 @@
 {
   "accentColor": "",
-  "theme": "obsidian",
+  "theme": "moonstone",
   "interfaceFontFamily": "",
   "translucency": true,
   "nativeMenus": false,
-  "cssTheme": "Minimal",
+  "cssTheme": "",
   "textFontFamily": "Times New Roman,Georgia,华文仿宋,宋体,楷体",
   "baseFontSize": 16,
   "monospaceFontFamily": "Fira Code"
