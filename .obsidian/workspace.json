@@ -102,17 +102,12 @@
             "id": "0bd17ddd653184f2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -178,8 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 364.5,
-    "collapsed": true
+    "width": 364.5
   },
   "right": {
     "id": "c560c0d18f2d9ffc",
@@ -195,9 +189,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "从文生视频模型Sora说起：现实不存在了，还是我们不存在了？.md"
-              }
+              "state": {}
             }
           },
           {
@@ -233,7 +225,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "从文生视频模型Sora说起：现实不存在了，还是我们不存在了？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,7 +241,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "从文生视频模型Sora说起：现实不存在了，还是我们不存在了？.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -279,8 +269,9 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "18923f671ff250aa",
+  "active": "0bd17ddd653184f2",
   "lastOpenFiles": [
+    "未命名.canvas",
     "未命名.md",
     "从文生视频模型Sora说起：现实不存在了，还是我们不存在了？.md",
     "Daily/2024-03-16.md",
@@ -306,7 +297,6 @@
     "Daily/2024-01-22.md",
     "Daily/2024-01-19.md",
     "Daily/2024-01-18.md",
-    "语文/国学的天空/《国学的天空》笔记大纲.md",
     "语文/国学的天空/庄子",
     "语文/国学的天空/老子",
     "语文/国学的天空/孟子",
@@ -318,7 +308,6 @@
     "附件/《赤壁赋》注释.pdf",
     "附件/现代文答题套路.pdf",
     "未命名 1.canvas",
-    "未命名.canvas",
     "Excalidraw/Drawing 2024-01-01 15.46.24.excalidraw.png",
     "附件/细胞亚显微结构.png",
     "附件/Pasted image 20231215153329.png",
