@@ -7,5 +7,6 @@
   "cssTheme": "",
   "textFontFamily": "Times New Roman,Georgia,华文仿宋,宋体,楷体",
   "baseFontSize": 16,
-  "monospaceFontFamily": "Fira Code"
+  "monospaceFontFamily": "Fira Code",
+  "showViewHeader": false
 }
