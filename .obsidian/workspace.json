@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "从文生视频模型Sora说起：现实不存在了，还是我们不存在了？.md",
+                "file": "语文/从文生视频模型Sora说起：现实不存在了，还是我们不存在了？.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -102,8 +102,13 @@
             "id": "0bd17ddd653184f2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "语文/从文生视频模型Sora说起：现实不存在了，还是我们不存在了？.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -173,7 +178,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 364.5
+    "width": 364.5,
+    "collapsed": true
   },
   "right": {
     "id": "c560c0d18f2d9ffc",
@@ -189,7 +195,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "语文/从文生视频模型Sora说起：现实不存在了，还是我们不存在了？.md"
+              }
             }
           },
           {
@@ -225,6 +233,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "语文/从文生视频模型Sora说起：现实不存在了，还是我们不存在了？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,6 +250,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "语文/从文生视频模型Sora说起：现实不存在了，还是我们不存在了？.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -271,13 +281,18 @@
   },
   "active": "0bd17ddd653184f2",
   "lastOpenFiles": [
+    "语文/记得绿罗裙，处处怜芳草.md",
+    "Projects/DialectTranslation/方言语音指令转换器.md",
+    "Projects/DialectTranslation/DialectTranslation.md",
+    "Projects/DifferCJKfaces/DifferCJKfaces.md",
+    "Projects/DialectTranslation/普通话语音指令数据集.md",
+    "Others/未命名.md",
+    "语文/从文生视频模型Sora说起：现实不存在了，还是我们不存在了？.md",
+    "Others",
     "未命名.canvas",
-    "未命名.md",
-    "从文生视频模型Sora说起：现实不存在了，还是我们不存在了？.md",
     "Daily/2024-03-16.md",
     "Daily/2024-02-25.md",
     "语文/国学的天空/老子的道.md",
-    "语文/记得绿罗裙，处处怜芳草.md",
     "Daily/2024-03-02.md",
     "语文/国学的天空/立志于学.md",
     "语文/国学的天空/处世态度.md",
@@ -294,9 +309,6 @@
     "Daily/2024-01-27.md",
     "数学建模/IMMC24233671.md",
     "Daily/2024-01-26.md",
-    "Daily/2024-01-22.md",
-    "Daily/2024-01-19.md",
-    "Daily/2024-01-18.md",
     "语文/国学的天空/庄子",
     "语文/国学的天空/老子",
     "语文/国学的天空/孟子",
@@ -306,7 +318,6 @@
     "模板",
     "附件/《登泰山记》注释.pdf",
     "附件/《赤壁赋》注释.pdf",
-    "附件/现代文答题套路.pdf",
     "未命名 1.canvas",
     "Excalidraw/Drawing 2024-01-01 15.46.24.excalidraw.png",
     "附件/细胞亚显微结构.png",
