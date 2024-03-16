@@ -112,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md"
+                "file": "从文生视频模型Sora说起：现实不存在了，还是我们不存在了？.md"
               }
             }
           },
@@ -233,7 +233,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.md",
+                "file": "从文生视频模型Sora说起：现实不存在了，还是我们不存在了？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,7 +250,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.md",
+                "file": "从文生视频模型Sora说起：现实不存在了，还是我们不存在了？.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -279,10 +279,10 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "0bd17ddd653184f2",
+  "active": "18923f671ff250aa",
   "lastOpenFiles": [
-    "从文生视频模型Sora说起：现实不存在了，还是我们不存在了？.md",
     "未命名.md",
+    "从文生视频模型Sora说起：现实不存在了，还是我们不存在了？.md",
     "Daily/2024-03-16.md",
     "Daily/2024-02-25.md",
     "语文/国学的天空/老子的道.md",
