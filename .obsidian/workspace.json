@@ -107,7 +107,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-01-29.md"
+                "file": "语文/从文生视频模型Sora说起：现实不存在了，还是我们不存在了？.md"
               }
             }
           },
@@ -228,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-01-29.md",
+                "file": "语文/从文生视频模型Sora说起：现实不存在了，还是我们不存在了？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +245,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-01-29.md",
+                "file": "语文/从文生视频模型Sora说起：现实不存在了，还是我们不存在了？.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -273,8 +273,9 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "0bd17ddd653184f2",
+  "active": "18923f671ff250aa",
   "lastOpenFiles": [
+    "Daily/2024-01-29.md",
     "语文/从文生视频模型Sora说起：现实不存在了，还是我们不存在了？.md",
     "Daily/2024-03-17.md",
     "语文/记得绿罗裙，处处怜芳草.md",
@@ -292,7 +293,6 @@
     "语文/国学的天空/立志于学.md",
     "语文/国学的天空/处世态度.md",
     "Daily/2024-01-17.md",
-    "Daily/2024-01-29.md",
     "Daily/2024-02-17.md",
     "语文/《赤壁赋》笔记整理.md",
     "Daily/2024-02-15.md",
