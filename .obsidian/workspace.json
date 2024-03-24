@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "语文/从文生视频模型Sora说起：现实不存在了，还是我们不存在了？.md",
+                "file": "Daily/2024-03-24.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "语文/从文生视频模型Sora说起：现实不存在了，还是我们不存在了？.md"
+                "file": "Daily/2024-03-24.md"
               }
             }
           },
@@ -228,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "语文/从文生视频模型Sora说起：现实不存在了，还是我们不存在了？.md",
+                "file": "Daily/2024-03-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +245,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "语文/从文生视频模型Sora说起：现实不存在了，还是我们不存在了？.md",
+                "file": "Daily/2024-03-24.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -275,9 +275,10 @@
   },
   "active": "18923f671ff250aa",
   "lastOpenFiles": [
+    "语文/从文生视频模型Sora说起：现实不存在了，还是我们不存在了？.md",
+    "Daily/2024-03-24.md",
     "Daily/2024-03-17.md",
     "Daily/2024-01-29.md",
-    "语文/从文生视频模型Sora说起：现实不存在了，还是我们不存在了？.md",
     "语文/记得绿罗裙，处处怜芳草.md",
     "Projects/DialectTranslation/方言语音指令转换器.md",
     "Projects/DialectTranslation/DialectTranslation.md",
@@ -302,7 +303,6 @@
     "Daily/2024-02-02.md",
     "Daily/2024-01-28.md",
     "Daily/2024-01-27.md",
-    "数学建模/IMMC24233671.md",
     "语文/国学的天空/庄子",
     "语文/国学的天空/老子",
     "语文/国学的天空/孟子",
