@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "南京游击.md",
+                "file": "南京游记.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "南京游击.md"
+                "file": "南京游记.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "南京游击.md",
+                "file": "南京游记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "南京游击.md",
+                "file": "南京游记.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +200,7 @@
   },
   "active": "81e4e426e7a348c2",
   "lastOpenFiles": [
-    "南京游击.md",
+    "南京游记.md",
     "语文/桨声灯影里的秦淮河.md",
     "Daily/2024-03-30.md",
     "Daily/2024-03-25.md",
