@@ -2,7 +2,7 @@
   "accentColor": "",
   "theme": "system",
   "interfaceFontFamily": "",
-  "translucency": true,
+  "translucency": false,
   "nativeMenus": false,
   "cssTheme": "",
   "textFontFamily": "Times New Roman,Georgia,华文仿宋,宋体,楷体",
