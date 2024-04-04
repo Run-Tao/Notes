@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "语文/桨声灯影里的秦淮河.md",
+                "file": "Daily/2024-04-04.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "语文/桨声灯影里的秦淮河.md"
+                "file": "Daily/2024-04-04.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "语文/桨声灯影里的秦淮河.md",
+                "file": "Daily/2024-04-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "语文/桨声灯影里的秦淮河.md",
+                "file": "Daily/2024-04-04.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -181,8 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 331.5,
-    "collapsed": true
+    "width": 331.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,9 +200,10 @@
   },
   "active": "407ce1e3429925b9",
   "lastOpenFiles": [
+    "语文/桨声灯影里的秦淮河.md",
+    "Daily/2024-04-04.md",
     "Daily/2024-03-30.md",
     "南京游记.md",
-    "语文/桨声灯影里的秦淮河.md",
     "Daily/2024-03-25.md",
     "Daily/2024-03-24.md",
     "Daily/2024-02-25.md",
@@ -228,7 +228,6 @@
     "语文/《赤壁赋》笔记整理.md",
     "Daily/2024-02-15.md",
     "数学建模/MCM.md",
-    "Daily/2024-02-03.md",
     "语文/国学的天空/庄子",
     "语文/国学的天空/老子",
     "语文/国学的天空/孟子",
