@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/DialectTranslation/DialectTranslation.md",
+                "file": "语文/商鞅为何从改革家变成“全民公敌”.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/DialectTranslation/DialectTranslation.md"
+                "file": "语文/商鞅为何从改革家变成“全民公敌”.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/DialectTranslation/DialectTranslation.md",
+                "file": "语文/商鞅为何从改革家变成“全民公敌”.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/DialectTranslation/DialectTranslation.md",
+                "file": "语文/商鞅为何从改革家变成“全民公敌”.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -226,11 +226,13 @@
   },
   "active": "ce1ed2c35efa5de4",
   "lastOpenFiles": [
-    "商鞅为何从改革家变成“全民公敌”.md",
+    "Daily/2024-04-09.md",
+    "Projects/DialectTranslation/DialectTranslation.md",
+    "语文/商鞅为何从改革家变成“全民公敌”.md",
     "Daily/2024-04-04.md",
     "语文/桨声灯影里的秦淮河.md",
     "Daily/2024-03-30.md",
-    "南京游记.md",
+    "语文/南京游记.md",
     "Daily/2024-03-25.md",
     "Daily/2024-03-24.md",
     "Daily/2024-02-25.md",
@@ -243,7 +245,6 @@
     "Daily/2024-03-17.md",
     "语文/记得绿罗裙，处处怜芳草.md",
     "Projects/DialectTranslation/方言语音指令转换器.md",
-    "Projects/DialectTranslation/DialectTranslation.md",
     "Projects/DifferCJKfaces/DifferCJKfaces.md",
     "Projects/DialectTranslation/普通话语音指令数据集.md",
     "Others/未命名.md",
@@ -253,7 +254,6 @@
     "语文/国学的天空/处世态度.md",
     "Daily/2024-01-17.md",
     "语文/《赤壁赋》笔记整理.md",
-    "Daily/2024-02-15.md",
     "语文/国学的天空/庄子",
     "语文/国学的天空/老子",
     "语文/国学的天空/孟子",
