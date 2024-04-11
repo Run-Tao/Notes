@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-04-11.md",
+                "file": "数学建模/MCM73410.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-04-11.md"
+                "file": "数学建模/MCM73410.md"
               }
             }
           },
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-04-11.md",
+                "file": "数学建模/MCM73410.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-04-11.md",
+                "file": "数学建模/MCM73410.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -239,8 +239,8 @@
   },
   "active": "952b1cf8920e480c",
   "lastOpenFiles": [
-    "Obsidian使用学习/Callout.md",
     "Daily/2024-04-11.md",
+    "Obsidian使用学习/Callout.md",
     "数学建模/MCM73410.md",
     "附件/IMMC23090436-Note.pdf",
     "附件/Pasted image 20231215153329.png",
