@@ -58,6 +58,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "952b1cf8920e480c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian使用学习/Callout.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 3
@@ -226,10 +239,11 @@
   },
   "active": "ce1ed2c35efa5de4",
   "lastOpenFiles": [
+    "Obsidian使用学习/Callout.md",
+    "数学建模/MCM73410.md",
     "附件/IMMC23090436-Note.pdf",
     "附件/Pasted image 20231215153329.png",
     "Daily/2024-04-11.md",
-    "数学建模/MCM73410.md",
     "Daily/2024-04-10.md",
     "语文/商鞅为何从改革家变成“全民公敌”.md",
     "Daily/2024-04-09.md",
@@ -263,7 +277,6 @@
     "附件/The 1940s House.pdf",
     "模板",
     "附件/《登泰山记》注释.pdf",
-    "附件/《赤壁赋》注释.pdf",
     "未命名 1.canvas",
     "Excalidraw/Drawing 2024-01-01 15.46.24.excalidraw.png",
     "附件/细胞亚显微结构.png",
