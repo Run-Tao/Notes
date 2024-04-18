@@ -65,7 +65,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学建模/MCM73410.md",
+                "file": "Daily/2024-04-18.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "00ab663955afe7e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "英语词汇.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -73,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -156,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数学建模/MCM73410.md"
+                "file": "英语词汇.md"
               }
             }
           },
@@ -193,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数学建模/MCM73410.md",
+                "file": "英语词汇.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数学建模/MCM73410.md",
+                "file": "英语词汇.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -237,11 +250,13 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "952b1cf8920e480c",
+  "active": "00ab663955afe7e3",
   "lastOpenFiles": [
+    "Daily/2024-04-18.md",
+    "英语词汇.md",
+    "数学建模/MCM73410.md",
     "Daily/2024-04-11.md",
     "Obsidian使用学习/Callout.md",
-    "数学建模/MCM73410.md",
     "附件/IMMC23090436-Note.pdf",
     "附件/Pasted image 20231215153329.png",
     "Daily/2024-04-10.md",
@@ -265,8 +280,6 @@
     "语文/记得绿罗裙，处处怜芳草.md",
     "Projects/DialectTranslation/方言语音指令转换器.md",
     "Projects/DifferCJKfaces/DifferCJKfaces.md",
-    "Projects/DialectTranslation/普通话语音指令数据集.md",
-    "Others/未命名.md",
     "Others",
     "未命名.canvas",
     "语文/国学的天空/庄子",
