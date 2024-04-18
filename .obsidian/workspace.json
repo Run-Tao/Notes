@@ -4,89 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "5aab7782fd629f30",
+        "id": "b34cff0a9fd5fe30",
         "type": "tabs",
         "children": [
           {
-            "id": "81e4e426e7a348c2",
+            "id": "1ea67a84fcb75050",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-03-30.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "407ce1e3429925b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2024-04-04.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "52573bd12ed8489e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2024-04-04.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ce1ed2c35efa5de4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2024-04-11.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "952b1cf8920e480c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2024-04-18.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "00ab663955afe7e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2024-04-18.md",
+                "file": "英语词汇.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -152,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 364.5,
-    "collapsed": true
+    "width": 364.5
   },
   "right": {
     "id": "c560c0d18f2d9ffc",
@@ -170,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-04-18.md"
+                "file": "英语词汇.md"
               }
             }
           },
@@ -207,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-04-18.md",
+                "file": "英语词汇.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-04-18.md",
+                "file": "英语词汇.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -252,12 +185,15 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "00ab663955afe7e3",
+  "active": "1ea67a84fcb75050",
   "lastOpenFiles": [
+    "附件/英语词汇.pdf",
+    "Daily/2024-03-30.md",
+    "Daily/2024-04-04.md",
+    "Daily/2024-04-11.md",
     "Daily/2024-04-18.md",
     "英语词汇.md",
     "数学建模/MCM73410.md",
-    "Daily/2024-04-11.md",
     "Obsidian使用学习/Callout.md",
     "附件/IMMC23090436-Note.pdf",
     "附件/Pasted image 20231215153329.png",
@@ -265,9 +201,7 @@
     "语文/商鞅为何从改革家变成“全民公敌”.md",
     "Daily/2024-04-09.md",
     "Projects/DialectTranslation/DialectTranslation.md",
-    "Daily/2024-04-04.md",
     "语文/桨声灯影里的秦淮河.md",
-    "Daily/2024-03-30.md",
     "语文/南京游记.md",
     "Daily/2024-03-25.md",
     "Daily/2024-03-24.md",
@@ -281,7 +215,6 @@
     "Daily/2024-03-17.md",
     "语文/记得绿罗裙，处处怜芳草.md",
     "Projects/DialectTranslation/方言语音指令转换器.md",
-    "Projects/DifferCJKfaces/DifferCJKfaces.md",
     "Others",
     "未命名.canvas",
     "语文/国学的天空/庄子",
