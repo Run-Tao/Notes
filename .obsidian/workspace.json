@@ -33,7 +33,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "英语词汇.md"
+                "file": "未命名.md"
               }
             }
           },
@@ -153,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "英语词汇.md",
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "英语词汇.md",
+                "file": "未命名.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -198,10 +199,10 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "1ea67a84fcb75050",
+  "active": "c1b61f9941b8ed10",
   "lastOpenFiles": [
-    "未命名.md",
     "英语词汇.md",
+    "未命名.md",
     "Daily/2024-04-19.md",
     "附件/英语词汇.pdf",
     "Daily/2024-03-30.md",
