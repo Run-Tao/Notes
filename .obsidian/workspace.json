@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "英语词汇.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md"
+                "file": "英语词汇.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.md",
+                "file": "英语词汇.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.md",
+                "file": "英语词汇.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -201,8 +201,9 @@
   },
   "active": "c1b61f9941b8ed10",
   "lastOpenFiles": [
-    "英语词汇.md",
+    "Daily/2024-04-21.md",
     "未命名.md",
+    "英语词汇.md",
     "Daily/2024-04-19.md",
     "附件/英语词汇.pdf",
     "Daily/2024-03-30.md",
@@ -229,7 +230,6 @@
     "Daily/2024-03-02.md",
     "语文/从文生视频模型Sora说起：现实不存在了，还是我们不存在了？.md",
     "Daily/2024-03-17.md",
-    "语文/记得绿罗裙，处处怜芳草.md",
     "Others",
     "未命名.canvas",
     "语文/国学的天空/庄子",
