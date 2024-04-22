@@ -115,7 +115,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "英语词汇.md"
+              }
             }
           },
           {
@@ -151,6 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "英语词汇.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,6 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "英语词汇.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -194,10 +198,10 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "b7a399762e654c6a",
+  "active": "1ea67a84fcb75050",
   "lastOpenFiles": [
-    "英语词汇.md",
     "Daily/2024-04-22.md",
+    "英语词汇.md",
     "Daily/2024-04-21.md",
     "未命名.md",
     "Daily/2024-04-19.md",
