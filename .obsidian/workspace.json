@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名 1.md",
+                "file": "Projects/DialectTranslation/未命名 1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名 1.md",
+                "file": "Daily/2024-05-26.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 364.5
+    "width": 364.5,
+    "collapsed": true
   },
   "right": {
     "id": "c560c0d18f2d9ffc",
@@ -130,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名 1.md"
+                "file": "Daily/2024-05-26.md"
               }
             }
           },
@@ -167,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名 1.md",
+                "file": "Daily/2024-05-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名 1.md",
+                "file": "Daily/2024-05-26.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -214,8 +215,9 @@
   },
   "active": "c1b61f9941b8ed10",
   "lastOpenFiles": [
+    "语文/高一下课内文言文翻译整理.md",
+    "Projects/DialectTranslation/未命名 1.md",
     "Daily/2024-04-22.md",
-    "未命名 1.md",
     "Daily/2024-05-26.md",
     "Daily/2024-05-22.md",
     "英语词汇.md",
@@ -242,7 +244,6 @@
     "Daily/2024-02-25.md",
     "语文/国学的天空/老子的道.md",
     "Daily/2024-02-17.md",
-    "Daily/2024-03-16.md",
     "Others",
     "未命名.canvas",
     "语文/国学的天空/庄子",
