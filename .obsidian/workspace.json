@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-05-22.md",
+                "file": "Daily/2024-05-26.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "39cecba9bb36d17f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名 1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -33,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-05-22.md"
+                "file": "未命名 1.md"
               }
             }
           },
@@ -153,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-05-22.md",
+                "file": "未命名 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-05-22.md",
+                "file": "未命名 1.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -198,10 +212,12 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "1ea67a84fcb75050",
+  "active": "39cecba9bb36d17f",
   "lastOpenFiles": [
-    "英语词汇.md",
+    "Daily/2024-05-26.md",
+    "未命名 1.md",
     "Daily/2024-05-22.md",
+    "英语词汇.md",
     "Daily/2024-04-22.md",
     "Daily/2024-04-21.md",
     "未命名.md",
@@ -227,8 +243,6 @@
     "语文/国学的天空/老子的道.md",
     "Daily/2024-02-17.md",
     "Daily/2024-03-16.md",
-    "Daily/2024-01-29.md",
-    "Daily/2024-03-02.md",
     "Others",
     "未命名.canvas",
     "语文/国学的天空/庄子",
