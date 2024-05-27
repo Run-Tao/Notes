@@ -13,19 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-05-27.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ab457eb905e8eb6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Projects/DialectTranslation/低成本普惠型智能家居方言指令转换器的研究 - 答辩演讲稿.md",
                 "mode": "source",
                 "backlinks": false,
@@ -33,8 +20,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,18 +184,22 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "4ab457eb905e8eb6",
+  "active": "18835fdeb84ef3fd",
   "lastOpenFiles": [
-    "附件/低成本普惠型智能家居方言指令转换器的研究 - 答辩演讲稿.pdf",
+    "Obsidian使用学习/Callout.md",
     "Projects/DialectTranslation/低成本普惠型智能家居方言指令转换器的研究 - 答辩演讲稿.md",
     "Daily/2024-05-27.md",
     "Daily/2024-05-26.md",
+    "英语/未命名.md",
+    "英语/英语词汇.md",
+    "Projects/DialectTranslation/方言语音指令转换器.md",
+    "Projects/DialectTranslation/普通话语音指令数据集.md",
+    "Projects/DialectTranslation/DialectTranslation.md",
+    "附件/低成本普惠型智能家居方言指令转换器的研究 - 答辩演讲稿.pdf",
     "语文/高一下课内文言文翻译整理.md",
     "Daily/2024-04-22.md",
     "Daily/2024-05-22.md",
-    "英语词汇.md",
     "Daily/2024-04-21.md",
-    "未命名.md",
     "Daily/2024-04-19.md",
     "附件/英语词汇.pdf",
     "Daily/2024-03-30.md",
@@ -217,18 +207,15 @@
     "Daily/2024-04-11.md",
     "Daily/2024-04-18.md",
     "数学建模/MCM73410.md",
-    "Obsidian使用学习/Callout.md",
     "附件/IMMC23090436-Note.pdf",
     "附件/Pasted image 20231215153329.png",
     "Daily/2024-04-10.md",
     "语文/商鞅为何从改革家变成“全民公敌”.md",
     "Daily/2024-04-09.md",
-    "Projects/DialectTranslation/DialectTranslation.md",
     "语文/桨声灯影里的秦淮河.md",
     "语文/南京游记.md",
     "Daily/2024-03-25.md",
     "Daily/2024-03-24.md",
-    "Daily/2024-02-25.md",
     "Others",
     "未命名.canvas",
     "语文/国学的天空/庄子",
@@ -237,7 +224,6 @@
     "语文/国学的天空/孔子",
     "语文/国学的天空",
     "附件/The 1940s House.pdf",
-    "模板",
     "未命名 1.canvas",
     "Excalidraw/Drawing 2024-01-01 15.46.24.excalidraw.png",
     "附件/细胞亚显微结构.png",
