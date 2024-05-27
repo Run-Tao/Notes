@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b34cff0a9fd5fe30",
+        "id": "a4349373e33e9e88",
         "type": "tabs",
         "children": [
           {
-            "id": "1ea67a84fcb75050",
+            "id": "c94ffff176a7f686",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-05-26.md",
+                "file": "Daily/2024-05-27.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "39cecba9bb36d17f",
+            "id": "4ab457eb905e8eb6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/DialectTranslation/未命名 1.md",
+                "file": "Projects/DialectTranslation/答辩演讲稿.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 364.5,
-    "collapsed": true
+    "width": 364.5
   },
   "right": {
     "id": "c560c0d18f2d9ffc",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/DialectTranslation/未命名 1.md"
+                "file": "Projects/DialectTranslation/答辩演讲稿.md"
               }
             }
           },
@@ -140,17 +139,9 @@
               "type": "calendar",
               "state": {}
             }
-          },
-          {
-            "id": "937445de6f4e84c2",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "e7649e4bd57b9c51",
@@ -163,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/DialectTranslation/未命名 1.md",
+                "file": "Projects/DialectTranslation/答辩演讲稿.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/DialectTranslation/未命名 1.md",
+                "file": "Projects/DialectTranslation/答辩演讲稿.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -207,11 +198,12 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "39cecba9bb36d17f",
+  "active": "4ab457eb905e8eb6",
   "lastOpenFiles": [
+    "Daily/2024-05-27.md",
     "Daily/2024-05-26.md",
+    "Projects/DialectTranslation/答辩演讲稿.md",
     "语文/高一下课内文言文翻译整理.md",
-    "Projects/DialectTranslation/未命名 1.md",
     "Daily/2024-04-22.md",
     "Daily/2024-05-22.md",
     "英语词汇.md",
@@ -237,7 +229,6 @@
     "Daily/2024-03-24.md",
     "Daily/2024-02-25.md",
     "语文/国学的天空/老子的道.md",
-    "Daily/2024-02-17.md",
     "Others",
     "未命名.canvas",
     "语文/国学的天空/庄子",
