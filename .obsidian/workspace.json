@@ -102,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Projects/DialectTranslation/低成本普惠型智能家居方言指令转换器的研究 - 答辩演讲稿.md"
-              }
+              "state": {}
             }
           },
           {
@@ -125,17 +123,9 @@
               "type": "calendar",
               "state": {}
             }
-          },
-          {
-            "id": "da825dcd5c4f601d",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "e7649e4bd57b9c51",
@@ -148,7 +138,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/DialectTranslation/低成本普惠型智能家居方言指令转换器的研究 - 答辩演讲稿.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +154,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/DialectTranslation/低成本普惠型智能家居方言指令转换器的研究 - 答辩演讲稿.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -191,10 +179,10 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "da825dcd5c4f601d",
+  "active": "b7a399762e654c6a",
   "lastOpenFiles": [
-    "Obsidian使用学习/Callout.md",
     "Projects/DialectTranslation/低成本普惠型智能家居方言指令转换器的研究 - 答辩演讲稿.md",
+    "Obsidian使用学习/Callout.md",
     "Daily/2024-05-27.md",
     "Daily/2024-05-26.md",
     "英语/未命名.md",
