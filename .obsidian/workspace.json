@@ -125,9 +125,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "da825dcd5c4f601d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "e7649e4bd57b9c51",
@@ -179,12 +187,11 @@
       "command-palette:打开命令面板": false,
       "random-note:开始漫游笔记": false,
       "workspaces:管理工作区布局": true,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "obsidian-memos:Memos": false
     }
   },
-  "active": "18835fdeb84ef3fd",
+  "active": "da825dcd5c4f601d",
   "lastOpenFiles": [
     "Obsidian使用学习/Callout.md",
     "Projects/DialectTranslation/低成本普惠型智能家居方言指令转换器的研究 - 答辩演讲稿.md",
