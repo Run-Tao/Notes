@@ -116,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Projects/DialectTranslation/低成本普惠型智能家居方言指令转换器的研究 - 答辩演讲稿.md"
+              }
             }
           },
           {
@@ -152,6 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Projects/DialectTranslation/低成本普惠型智能家居方言指令转换器的研究 - 答辩演讲稿.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,6 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Projects/DialectTranslation/低成本普惠型智能家居方言指令转换器的研究 - 答辩演讲稿.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -194,8 +198,9 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "b7a399762e654c6a",
+  "active": "4ab457eb905e8eb6",
   "lastOpenFiles": [
+    "附件/低成本普惠型智能家居方言指令转换器的研究 - 答辩演讲稿.pdf",
     "Projects/DialectTranslation/低成本普惠型智能家居方言指令转换器的研究 - 答辩演讲稿.md",
     "Daily/2024-05-27.md",
     "Daily/2024-05-26.md",
@@ -224,7 +229,6 @@
     "Daily/2024-03-25.md",
     "Daily/2024-03-24.md",
     "Daily/2024-02-25.md",
-    "语文/国学的天空/老子的道.md",
     "Others",
     "未命名.canvas",
     "语文/国学的天空/庄子",
