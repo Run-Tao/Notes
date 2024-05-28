@@ -13,14 +13,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/DialectTranslation/低成本普惠型智能家居方言指令转换器的研究 - 答辩演讲稿.md",
+                "file": "Daily/2024-05-28.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "62c55d05c7387ac4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "语文/《谏太宗十思书》笔记整理.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "08e53987a9a89ec4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "语文/《六国论》笔记整理.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/DialectTranslation/低成本普惠型智能家居方言指令转换器的研究 - 答辩演讲稿.md"
+                "file": "语文/《谏太宗十思书》笔记整理.md"
               }
             }
           },
@@ -140,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/DialectTranslation/低成本普惠型智能家居方言指令转换器的研究 - 答辩演讲稿.md",
+                "file": "语文/《谏太宗十思书》笔记整理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/DialectTranslation/低成本普惠型智能家居方言指令转换器的研究 - 答辩演讲稿.md",
+                "file": "语文/《谏太宗十思书》笔记整理.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -183,8 +210,12 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "c94ffff176a7f686",
+  "active": "62c55d05c7387ac4",
   "lastOpenFiles": [
+    "语文/《赤壁赋》笔记整理.md",
+    "语文/《谏太宗十思书》笔记整理.md",
+    "Daily/2024-05-28.md",
+    "语文/《六国论》笔记整理.md",
     "Projects/DialectTranslation/低成本普惠型智能家居方言指令转换器的研究 - 答辩演讲稿.md",
     "Obsidian使用学习/Callout.md",
     "Daily/2024-05-27.md",
@@ -211,10 +242,6 @@
     "Daily/2024-04-10.md",
     "语文/商鞅为何从改革家变成“全民公敌”.md",
     "Daily/2024-04-09.md",
-    "语文/桨声灯影里的秦淮河.md",
-    "语文/南京游记.md",
-    "Daily/2024-03-25.md",
-    "Daily/2024-03-24.md",
     "Others",
     "未命名.canvas",
     "语文/国学的天空/庄子",
