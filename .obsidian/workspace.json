@@ -72,8 +72,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -156,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-06-01.md"
+                "file": "Daily/2024-05-28.md"
               }
             }
           },
@@ -193,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-06-01.md",
+                "file": "Daily/2024-05-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-06-01.md",
+                "file": "Daily/2024-05-28.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -236,10 +235,10 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "d415b526081e8224",
+  "active": "c94ffff176a7f686",
   "lastOpenFiles": [
-    "Notes.md",
     "Daily/2024-06-01.md",
+    "Notes.md",
     "未命名",
     "Projects/DialectTranslation/低成本普惠型智能家居方言指令转换器的研究 - 答辩演讲稿.md",
     "Daily/2024-05-30.md",
