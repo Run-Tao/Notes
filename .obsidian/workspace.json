@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "生物/生物笔记大纲.md",
+                "file": "Daily/2024-06-28.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "生物/生物笔记大纲.md"
+                "file": "Daily/2024-06-28.md"
               }
             }
           },
@@ -192,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "生物/生物笔记大纲.md",
+                "file": "Daily/2024-06-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "生物/生物笔记大纲.md",
+                "file": "Daily/2024-06-28.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -237,6 +237,8 @@
   },
   "active": "c94ffff176a7f686",
   "lastOpenFiles": [
+    "生物/生物笔记大纲.md",
+    "Daily/2024-06-28.md",
     "Temporary/酶催化细胞的化学反应.md",
     "Temporary/细胞通过质膜与外界进行物质交换.md",
     "Temporary/叶绿体将光能转换并存储在糖分子中.md",
@@ -263,8 +265,6 @@
     "英语/未命名.md",
     "英语/英语词汇.md",
     "Projects/DialectTranslation/方言语音指令转换器.md",
-    "Projects/DialectTranslation/普通话语音指令数据集.md",
-    "Projects/DialectTranslation/DialectTranslation.md",
     "附件/低成本普惠型智能家居方言指令转换器的研究 - 答辩演讲稿.pdf",
     "附件/英语词汇.pdf",
     "附件/IMMC23090436-Note.pdf",
